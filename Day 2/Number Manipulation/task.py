@@ -1,11 +1,6 @@
-bmi = 84 / 1.65 ** 2
-print(bmi)
+score = 0
 
-# Flooring
-print(int(bmi))
+# User scores a point
+score += 1
 
-# Rounding
-print(round(bmi))
-
-# Rounding to decimals.
-print(round(bmi, 2))
+print(score)
