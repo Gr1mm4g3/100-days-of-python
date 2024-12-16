@@ -1,3 +1,3 @@
-name = input("What is your name?")
-output = len(name)
-print(output)
+username = input("What is your name?")
+length = len(username)
+print(length)
