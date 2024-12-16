@@ -13,7 +13,7 @@ print(2 ** 2)
 # * or /
 # + or -
 
-print(3 * 3 + 3 / 3 -3) # 7.0
+print(3 * 3 + 3 / 3 - 3) # 7.0
 
 # Change the code to output 3.0
-print(3 * 3 / 3 + 3 - 3)
+print(3 * (3 + 3) / 3 - 3)
