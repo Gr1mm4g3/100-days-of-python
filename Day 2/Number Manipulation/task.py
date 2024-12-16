@@ -8,4 +8,4 @@ print(int(bmi))
 print(round(bmi))
 
 # Rounding to decimals.
-round(bmi, 2)
+print(round(bmi, 2))
